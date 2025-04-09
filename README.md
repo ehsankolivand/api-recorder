@@ -52,6 +52,5 @@ The extension tries hard to show only real API calls using headers (like `Conten
 
 
 ## Problems or Ideas? / Contact Me
-If you find any bugs or have ideas to make this better, please open an Issue on the GitHub repository: `[Link to Your GitHub Issues Page Here]`
 
 You can also find me on LinkedIn: [https://www.linkedin.com/in/ehsan-koolivand/](https://www.linkedin.com/in/ehsan-koolivand/)
