@@ -50,8 +50,6 @@ The extension tries hard to show only real API calls using headers (like `Conten
 -   Sometimes, getting the response body might fail for some requests (e.g., for redirects or if an error happens).
 -   Very large response bodies might cause problems or not be saved completely.
 
-## License
-This project uses the MIT License. You can see the `LICENSE` file for more info. (You should add a LICENSE file with MIT license text to your project).
 
 ## Problems or Ideas? / Contact Me
 If you find any bugs or have ideas to make this better, please open an Issue on the GitHub repository: `[Link to Your GitHub Issues Page Here]`
