@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "API Recorder",
+  "version": "1.0",
+  "description": "Records and exports API requests and responses",
+  "permissions": [
+    "debugger",
+    "storage",
+    "downloads",
+    "tabs",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/recording.png",
+      "128": "icons/recording.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "icons/recording.png",
+    "128": "icons/recording.png"
+  }
+} 
